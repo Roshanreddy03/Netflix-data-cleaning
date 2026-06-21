@@ -7,7 +7,7 @@ This project explores the Netflix catalog to uncover trends in content types, ta
 
 Using Python and data analysis techniques, we perform exploratory data analysis (EDA) to uncover patterns and insights from the dataset.
 
-Link to Project Page: https://roadmap.sh/projects/titanic-eda-python
+Link to Project Page: https://github.com/Roshanreddy03/Netflix-data-cleaning
 
 Dataset
 
